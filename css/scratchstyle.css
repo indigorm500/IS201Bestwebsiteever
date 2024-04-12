@@ -1,0 +1,24 @@
+body {
+    font-family: fantasy;
+    font-size: 14px;
+    color:cadetblue;
+    background-color: beige;
+}
+
+h1{
+    font-family: fantasy;
+    font-variant: normal;
+    color: cornflowerblue;
+}
+
+h4 {
+    font-family: fantasy; 
+    font-variant: small-caps;
+    color:darkblue;
+}
+
+li {
+    font-family: inherit;
+    color: black;
+}
+
